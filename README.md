@@ -24,7 +24,6 @@ echo "Hello, Linux!"
 # Table example
 # Table example
 | Name     | Country |
-|----------|---------|
 | Dipen    | Nepal   |
 | Samridhhi | Nepal  |
 | Manisha  | USA     |
