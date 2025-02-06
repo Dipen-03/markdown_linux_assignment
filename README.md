@@ -30,8 +30,8 @@ echo "Hello, World!"
 ### Table
 | Name    | Age |   class  |
 |---------|-----|----------|
-| Milan   | 27  | CA       |
-| Jiwan   | 31  | Engineer |
-| Kiran   | 15  | Doctor   |
+| Dipen   | 20  | Engineer       |
+| samriddhi   | 19  | Engineer |
+| Udit   | 21  | Engineer   |
 ### Images
 ![Beautiful Landscape](https://picsum.photos/600/300)
