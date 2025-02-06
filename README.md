@@ -20,6 +20,7 @@ Class ID: BEIRP24A6
 ```bash
 # Code block example
 echo "Hello, Linux!"
+'''
 
 # Table example
 | Name       | Country |
