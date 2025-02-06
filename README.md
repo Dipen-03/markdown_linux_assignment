@@ -22,11 +22,13 @@ Class ID: BEIRP24A6
 echo "Hello, Linux!"
 
 # Table example
-| Name | Country|
-|------|--------|
-| Dipen| Nepal  |
-| samridhhi| Nepal|
-| Manisha | USA  |
+# Table example
+| Name     | Country |
+|----------|---------|
+| Dipen    | Nepal   |
+| Samridhhi | Nepal  |
+| Manisha  | USA     |
+
 
 # image 
-![Dipen Image](https://st.depositphotos.com/2001755/3622/i/450/depositphotos_36220949-stock-photo-beautiful-landscape.jpg)
+![Dipen Image](https://cdn.pixabay.com/photo/2015/09/03/17/50/cobweb-921039_640.jpg)
